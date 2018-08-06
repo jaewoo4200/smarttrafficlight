@@ -2,6 +2,7 @@
 Get nearest traffic light information via your smartphone!
 
 인천포스코고등학교와 광양제철고등학교가 진행하는 합동 창업 프로젝트로, 일상에서 흔히 쓰이는 스마트폰을 이용하여 주변의 신호등 정보를 쉽게 받을 수 있는 앱입니다. 
+
 This project is led by two highschools;Incheon Posco Academy and Gwangyang Jecheol High School, and we are working on a project about getting nearest traffic light signal using your smartphone(s).
 
 이 프로젝트에는 Python, C, C++, Java가 쓰일 예정이며, 관련 API는 공공데이터포털에서 받아올 예정입니다. 아래 링크를 통해 웹사이트에 접속하실 수 있습니다.
